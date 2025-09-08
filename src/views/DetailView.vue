@@ -23,7 +23,7 @@ async function load() {
 }
 
 function adicionarInformacao() {
-  router.push({ name: 'InfoForm', params: { id: pessoa.value.ocoId } });
+  router.push({ name: 'infoForm', params: { id: pessoa.value.ocoId } });
 }
 
 onMounted(() => {

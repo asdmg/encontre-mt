@@ -21,7 +21,7 @@ watch(
   () => props.initialFilters,
   (newFilters) => {
     filtros.value = { ...newFilters };
-    fetchPessoas();
+    buscarPessoas();
   },
   { deep: true }
 );

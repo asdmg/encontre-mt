@@ -1,16 +1,5 @@
 # Projeto: Encontra-MT
 
-## Dados de Inscrição
-
-- **Nome:** Alex Sander Dimas Mendes Gonçalves
-- **E-mail:** alex.sdmg@hotmail.com
-- **Telefone:** +55 65 99207-3422
-- **Cidade/UF:** Cuiabá/MT
-- **Formação:** Engenharia de Software (Ampli, conclusão prevista 2025)
-- **Perfil:** Recém-formado, interessado em Laravel, Flutter, Vue.js, Node.js e boas práticas de desenvolvimento.
-
----
-
 ## Sobre o Projeto
 
 O **Encontra-MT** é um sistema de gerenciamento de pessoas desaparecidas, desenvolvido utilizando Vue.js no front-end e integrando com APIs para exibição de informações. Inclui funcionalidades como busca filtrada, detalhes de pessoas e interface responsiva.
